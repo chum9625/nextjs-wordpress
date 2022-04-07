@@ -1,5 +1,4 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-# yarn lint
-# echo 'from husky'
+yarn lint
